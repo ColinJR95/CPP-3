@@ -1,4 +1,6 @@
 # CPP-3
+
+Homework for class
 //character array 
 char arr [10];
 
