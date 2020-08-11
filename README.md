@@ -1,4 +1,4 @@
-# CPP-3
+# CPP
 
 Homework for class
 //character array 
